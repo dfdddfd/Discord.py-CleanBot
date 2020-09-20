@@ -10,6 +10,8 @@
 # 사용 방법
 zip를 다운받습니다
 
+그 다음에 콘솔에 git clone https://github.com/dfdddfd/Discord.py-CleanBot.git 를 입력합니다
+
 압축을 푸시고 clean.py을 열어주세요
 
 token과 prefix를 수정해주세요

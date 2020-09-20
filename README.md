@@ -12,3 +12,6 @@ token과 prefix를 수정해주세요
 
 # 필요 묘듈
 discord.py, colorama
+
+# 질문 사항
+질문 사항은 이슈에 남겨드리면 

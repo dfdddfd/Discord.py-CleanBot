@@ -1,5 +1,5 @@
 #BOT CONFIG
-token = "token"
+token = "토큰"
 prefix = "!"
 
 #NUKE CONFIG

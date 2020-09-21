@@ -4,7 +4,7 @@ prefix = "!"
 
 #NUKE CONFIG
 spam_messages = ["@everyone RUSH B", "@everyone BLYAT", "Your server has been conquered. @everyone", "https://media.discordapp.net/attachments/745833936784982109/753774340201250866/1.jpg?width=671&height=671 @everyone","https://media.discordapp.net/attachments/745833936784982109/753772484892950559/-.-1.jpg?width=671&height=671","Hey! Your SerVer is got terror! It's terrible!!!!!!!!!!!!!! @everyone", "느그섭 쩔드라 @everyone"
-channel_names = ["RUSH B", "BLYAT","HEY","느그섭 쩔드라"]
+channel_names = ["RUSH B", "BLYAT","HEY"]
 webhook_usernames = ["OW", "OH, I DON'T KNOW YHIS SERVER WILL GOT TERROR", "CONQUERED SERVER", "느그섭 쩔드라"]
 nuke_on_join = False
 nuke_wait_time = 0

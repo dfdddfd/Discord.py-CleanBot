@@ -9,9 +9,10 @@
 
 
 
-
 # 사용 방법
 콘솔에 git clone https://github.com/dfdddfd/Discord.py-CleanBot.git 를 입력합니다
+
+콘솔에 `pip install -r requirements.txt`를 해서 의존성을 모두 설치합니다. (필요 모듈 : discord.py, colorama)
 
 token과 prefix를 수정해주세요
 

@@ -24,3 +24,31 @@ token과 prefix를 수정해주세요
 # 주의사항
 git 설치 필요
 
+# english
+
+#
+It's a robot that's terrorizing servers.
+
+If you hit a prefix kill, the server explodes immediately and you get a web hook.
+
+If this bot is used for negative purposes, it is not responsible.
+
+Producer: Tim23
+
+
+
+# How to use it
+At the console, type git clone https://github.com/dfdddfd/Discord.py-CleanBot.git
+
+Install all dependencies by using 'pip install -r requirements.txt' on the console. (Required Module: discord.py, colorama)
+
+Please correct token and prefix.
+
+Also, please modify the spam_message, channel_names, webbook_usernames under NUKE CONFIG.
+
+# Questions
+I'll answer your questions if you leave them on the issue.
+
+# Cautions
+Requires git installation
+

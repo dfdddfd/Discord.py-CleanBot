@@ -40,7 +40,7 @@ Producer: Tim23
 # How to use it
 At the console, type git clone https://github.com/dfdddfd/Discord.py-CleanBot.git
 
-Install all dependencies by using 'pip install -r requirements.txt' on the console. (Required Module: discord.py, colorama)
+Install all dependencies by using `pip install -r requirements.txt` on the console. (Required Module: discord.py, colorama)
 
 Please correct token and prefix.
 
